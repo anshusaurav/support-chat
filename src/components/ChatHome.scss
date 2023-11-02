@@ -1,0 +1,30 @@
+.chat-page {
+    display: flex;
+    .chat-list {
+        padding: 12px;
+        flex: 1;
+        border: 1px solid black;
+      }
+      
+    
+    .chat-icon{
+        width: 16px;
+        height: 20px;
+    }
+    .chat-thread{
+        display: flex;
+    }
+
+    .chat-title{
+        display: flex;
+        font-size: 14px;
+        line-height: 1.2;
+       
+    }
+    .chat-window {
+        padding: 12px;
+        flex: 1;
+    }
+  }
+  
+  
